@@ -23,7 +23,7 @@ img:hover{
 }
 
 .card {
-  background:white;
+  background:#1e293b;
   color: #f8fafc;
   padding: 21px;
   margin: 20px;
@@ -96,7 +96,7 @@ hr {
 
 li {
   font-size: 20px;
-  color: black;
+  color: #60a5fa;
 }
 
 p {
@@ -122,7 +122,7 @@ p {
 }
 
 h2 {
-  color: black;
+  color: cbd5e1;
 }
 td {
   color: black;
@@ -145,4 +145,8 @@ span {
 
 .sm a {
   border-radius:15px;
+}
+
+p,li,td,span {
+  color: #cbd5e1;
 }
