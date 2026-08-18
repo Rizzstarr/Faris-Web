@@ -188,3 +188,33 @@ p,li,td,span {
 button {
   background: var(--main-color);
 }
+
+.light button {
+   background: #2563eb;
+   color: white;
+}
+
+.light {
+   background: white;
+   color: #0f172a;
+}
+
+.light .card {
+   background: white;
+   color: #0f172a;
+}
+
+.light p,
+.light li,
+.light td,
+.light span {
+   color: #0f172a;
+}
+
+.light h1 {
+   color: #2563eb;
+}
+
+.light h2 {
+   color: #334155;
+}
